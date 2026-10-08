@@ -223,4 +223,4 @@ CPU-Z is provided as a full free version with all features and updates included.
 Ready to unlock the full potential of your PC? Download CPU-Z now for a comprehensive understanding of your hardware!
 
 ---
-**Last updated:** 2026-10-07 21:03:22 UTC
+**Last updated:** 2026-10-08 01:28:18 UTC
